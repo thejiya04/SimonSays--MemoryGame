@@ -1,0 +1,40 @@
+*{
+    justify-items: center;
+    background-color: antiquewhite;
+}
+.H1{
+    color: rgb(99, 25, 25);
+}
+.container{
+    display: flex ;
+    justify-content :space-evenly;
+    height: 900px;
+    width: 300px;
+}
+.btn{
+    
+    margin : 2rem;
+    height: 80px;
+    width : 80px;
+   border: 3px solid rgb(20, 20, 20);
+    border-radius: 20%;
+
+}
+
+.purple{
+    background-color: rgb(123, 57, 185);
+}
+
+.pink{
+    background-color: rgb(163, 23, 81);
+}
+
+.blue{
+    background-color: rgb(30, 143, 151);
+}
+.green{
+    background-color: hsl(98, 76%, 44%);
+}
+.flash{
+background-color: white;
+}
